@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @WiiMakeStuff
-- 👀 I’m interested in 3DS Modding
-- 🌱 I’m currently learning C, C#, C+, C++, And Lua.
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me ScottBartholomew13@lol.com
+Hey! Welcome to My GitHub Page! You can Find all Sorts of stuff here! For example: Minecraft Stuff, Modding, and so Much more! You can message me via Xbox! My Username is "ImEggWarsPR0".
 
 <!---
 WiiMakeStuff/WiiMakeStuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
